@@ -8,9 +8,6 @@
 
 🎯 Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
-🌐 Vamos nos conectar? Estou sempre aberto a novas oportunidades. Vamos construir coisas incríveis
-juntos!
-
 <img aling="center" alt="Kaique_Gif" height="200" widht="250" src="https://media.tenor.com/YYBgvkWi1ncAAAAM/luffy-gear-5-one-piece.gif">
 
 <div style="display: inline_block"><br>
