@@ -6,7 +6,7 @@
 
 📚 Sempre estou buscando aprender algo novo: A tecnologia está sempre mudando, e eu estou sempre pronto para mergulhar em novos desafios e aprender algo novo no caminho.
 
-🎯 Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
+🎯 Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Java, Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
 <img aling="center" alt="Kaique_Gif" height="200" widht="250" src="https://media.tenor.com/YYBgvkWi1ncAAAAM/luffy-gear-5-one-piece.gif">
 
@@ -15,6 +15,7 @@
   <img align="center" alt="Kaique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kaique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kaique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Kaique-Java" height="30" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark">
 </div>
   
   ##
