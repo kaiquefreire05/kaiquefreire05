@@ -8,7 +8,9 @@
 
 🎯 Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Java, Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
-<img aling="center" alt="Kaique_Gif" height="200" widht="250" src="https://media.tenor.com/YYBgvkWi1ncAAAAM/luffy-gear-5-one-piece.gif">
+[![card](https://github-readme-stats.vercel.app/api?username=kaiquefreire05&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![kaiquefreire05](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquefreire05&hide=html&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,5 +20,3 @@
   <img align="center" alt="Kaique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   ##
- 
-
