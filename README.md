@@ -1,12 +1,12 @@
 # Olá! Eu sou o Kaíque Freire
 
-👋 Olá, pessoal! Meu nome é Kaíque Freire dos Santos, e eu tenho 18 anos. Sou apaixonado por tecnologia e sou um programador em constante evolução! 💻🚀
+Olá, pessoal! Meu nome é Kaíque Freire dos Santos, e eu tenho 18 anos. Sou apaixonado por tecnologia e sou um programador em constante evolução! 💻🚀
 
-🤝 Trabalho em equipe: Acredito que juntos somos mais fortes, e trabalhar com pessoas criativas é o que mais me motiva.
+Trabalho em equipe: Acredito que juntos somos mais fortes, e trabalhar com pessoas criativas é o que mais me motiva.
 
-📚 Sempre estou buscando aprender algo novo: A tecnologia está sempre mudando, e eu estou sempre pronto para mergulhar em novos desafios e aprender algo novo no caminho.
+Sempre estou buscando aprender algo novo: A tecnologia está sempre mudando, e eu estou sempre pronto para mergulhar em novos desafios e aprender algo novo no caminho.
 
-🎯 Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Java, Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
+Meu objetivo é criar soluções incríveis: Quero usar minhas habilidades em Java, Python, Ciência de Dados e Java Script para resolver problemas reais e fazer a diferença no mundo da tecnologia.
 
 [![card](https://github-readme-stats.vercel.app/api?username=kaiquefreire05&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
