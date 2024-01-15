@@ -1,6 +1,6 @@
 # Olá! Eu sou o Kaíque Freire
 
-Olá, pessoal! Meu nome é Kaíque Freire dos Santos, e eu tenho 18 anos. Sou apaixonado por tecnologia e sou um programador em constante evolução! 💻🚀
+Olá, pessoal! Meu nome é Kaíque Freire dos Santos, e eu tenho 18 anos. Sou apaixonado por tecnologia e sou um programador em constante evolução! 💻
 
 Trabalho em equipe: Acredito que juntos somos mais fortes, e trabalhar com pessoas criativas é o que mais me motiva.
 
