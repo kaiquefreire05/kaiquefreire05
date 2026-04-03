@@ -46,11 +46,5 @@ My name is Kaíque Freire dos Santos, I'm 21 years old and I'm passionate about 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kaiquefreire05/count.svg?"  />
-</div>
-
 
 
