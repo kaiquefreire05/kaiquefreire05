@@ -1,14 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da380&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Kaíque+Freire;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-My name is Kaíque Freire dos Santos, I'm 19 years old and I'm passionate about data science. I am a Computer Science student and have experience programming in Python, Java and SQL. I also master the main machine learning and data analysis libraries, such as pandas, scikit-learn, numpy and matplotlib. I want to use my knowledge and skills to solve real problems and create value with data. I look for opportunities to learn and grow in the area of data science, where I can get involved in challenging and innovative projects. My next goal is to learn deep learning, a machine learning technique that uses neural networks to simulate the human brain and make predictions with high accuracy.
+My name is Kaíque Freire dos Santos, I'm 21 years old and I'm passionate about data science. I am a Computer Science student and have experience programming in Python, Java and SQL. I also master the main machine learning and data analysis libraries, such as pandas, scikit-learn, numpy and matplotlib. I want to use my knowledge and skills to solve real problems and create value with data. I look for opportunities to learn and grow in the area of data science, where I can get involved in challenging and innovative projects. My next goal is to learn deep learning, a machine learning technique that uses neural networks to simulate the human brain and make predictions with high accuracy.
 <br>
 <h3 align="left">🔥   My Stats :</h3>
-  <div align="center">  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquefreire05&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquefreire05&theme=gotham&show_icons=true&hide_border=false&layout=compact"/>
+  <div align="center">
+     <img src="https://streak-stats.demolab.com?user=kaiquefreire05&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquefreire05&radius=16&theme=gotham&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
   </div>
-
+  
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Kaique-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -41,7 +40,11 @@ My name is Kaíque Freire dos Santos, I'm 19 years old and I'm passionate about 
 
 ###
 
-<img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
