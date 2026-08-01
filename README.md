@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da380&size=30&center=true&vCenter=true&width=1000&lines=Hello!+I+am+Kaíque+Freire;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-My name is Kaíque Freire dos Santos, I'm 21 years old and I'm passionate about data science. I am a Computer Science student and have experience programming in Python, Java and SQL. I also master the main machine learning and data analysis libraries, such as pandas, scikit-learn, numpy and matplotlib. I want to use my knowledge and skills to solve real problems and create value with data. I look for opportunities to learn and grow in the area of data science, where I can get involved in challenging and innovative projects. My next goal is to learn deep learning, a machine learning technique that uses neural networks to simulate the human brain and make predictions with high accuracy.
+I am a Software Developer with experience in developing and maintaining ERP systems, primarily working on backend development for enterprise applications.
+
+Throughout my professional experience, I have worked with GeneXus, C#, and SQL Server, participating in the development of new functionalities, APIs, system integrations, query optimization, and maintenance of applications used in the enterprise environment. I have also worked with dashboard customization and the implementation of solutions geared towards different business rules.
+
+In recent months, I have been deepening my knowledge of Java and Spring Boot, studying software architecture, REST API development, software engineering best practices, and building scalable applications.
+
+Currently, my main objective is to expand my work in the AWS ecosystem, obtaining certifications and studying cloud computing services and Artificial Intelligence to apply these resources to modern solutions.
 <br>
 <h3 align="left">🔥   My Stats :</h3>
   <div align="center">
