@@ -12,8 +12,7 @@ Currently, my main goal is to expand my work in the AWS ecosystem, pursue certif
 <h3 align="left">🔥 My Stats:</h3>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 <br/>
