@@ -9,11 +9,14 @@ In recent months, I have been deepening my knowledge of Java and Spring Boot, st
 Currently, my main objective is to expand my work in the AWS ecosystem, obtaining certifications and studying cloud computing services and Artificial Intelligence to apply these resources to modern solutions.
 <br>
 <h3 align="left">🔥   My Stats :</h3>
-  <div align="center">
-     <img src="https://streak-stats.demolab.com?user=kaiquefreire05&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiquefreire05&radius=16&theme=gotham&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+
+  <div data-importer="stats" align="center">
+    <img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://raw.githubusercontent.com/kaiquefreire05/kaiquefreire05/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
   
+<br/>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
